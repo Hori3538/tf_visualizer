@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="tf_visualizer" type="tf_visualizer_node" name="tf_visualizer_node" output="screen">
+    </node>
+</launch>
